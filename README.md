@@ -127,7 +127,10 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 ### Screenshots
 
 #### Setup ESLINT in Editor
-![Screenshot](../AwesomeProjects/Screenshots/Screenshot1.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot1.png?raw=true "Screenshot")
+
+#### React Vs React-Native
+![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
 
 
 ### IMP Links
