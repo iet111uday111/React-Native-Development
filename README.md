@@ -159,6 +159,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Default Status of React Native
 ![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
 
+#### Use Props 
+![Screenshot](./Screenshots/Screenshot12.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
