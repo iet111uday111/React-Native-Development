@@ -128,3 +128,21 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 #### Setup ESLINT in Editor
 ![Screenshot](./Screenshots/Screenshot1.png?raw=true "Screenshot")
+
+
+### IMP Links
+
+[Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
+
+[Say “Hello world” using React Native in Linux](https://code.likeagirl.io/say-hello-world-using-react-native-in-linux-15955986bc44)
+
+[Getting Started with React Native on Ubuntu Linux](http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/)
+
+[How to Install and Setup React Native on Ubuntu 18.04.1 LTS (Bionic Beaver)](https://www.techomoro.com/how-to-install-and-setup-react-native-on-ubuntu-18-04-1-lts-bionic-beaver/)
+
+[How to Install and Setup React Native on Ubuntu 17.10](https://www.techomoro.com/how-to-install-and-setup-react-native-on-ubuntu-17-10/)
+
+[How to install React Native on Ubuntu 17.10](https://www.moveoapps.com/blog/how-to-install-react-native-on-ubuntu-17-10/)
+
+[Getting started with React Native – A complete setup guide](https://habiletechnologies.com/blog/getting-started-react-native-complete-setup-guide/)
+
