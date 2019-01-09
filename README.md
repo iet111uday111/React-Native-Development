@@ -139,7 +139,25 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 ![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
 
 #### App Registry in React Native
-![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
+
+#### Flexbox Align Item : Flex-End
+![Screenshot](./Screenshots/Screenshot6.png?raw=true "Screenshot")
+
+#### Flexbox Align Item : Flex-Start
+![Screenshot](./Screenshots/Screenshot7.png?raw=true "Screenshot")
+
+#### Flexbox Justify-Content: Flex-Start
+![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+
+#### Flexbox Justify-Content: Center
+![Screenshot](./Screenshots/Screenshot9.png?raw=true "Screenshot")
+
+#### Flexbox Justify-Content: Flex-End
+![Screenshot](./Screenshots/Screenshot10.png?raw=true "Screenshot")
+
+#### Default Status of React Native
+![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
 
 
 ### IMP Links
