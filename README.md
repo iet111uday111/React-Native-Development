@@ -164,3 +164,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [What is the difference between React Native and React?](https://stackoverflow.com/questions/34641582/what-is-the-difference-between-react-native-and-react)
 
+[React VS React Native: How do these App Development Technologies Compare?](https://insights.daffodilsw.com/blog/react-vs-react-native-how-do-these-app-development-technologies-compare)
+
+
+[What are five differences between React.js and React Native?](https://www.quora.com/What-are-five-differences-between-React-js-and-React-Native)
+
+[Transitioning from React Web to React Native Development](https://hackernoon.com/transitioning-from-react-web-to-react-native-development-c8e6df57a92e)
+
+[The Good and the Bad of ReactJS and React Native](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)
+
