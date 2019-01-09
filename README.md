@@ -138,6 +138,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Albums App - Mockup 2
 ![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
 
+#### App Registry in React Native
+![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
