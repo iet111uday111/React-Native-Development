@@ -132,6 +132,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### React Vs React-Native
 ![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
 
+#### Albums App - Mockup 1
+![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
+
+#### Albums App - Mockup 2
+![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
