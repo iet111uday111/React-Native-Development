@@ -211,7 +211,7 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 ![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
 
 #### Card Template for Album App
-![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot29.png?raw=true "Screenshot")
 
 
 ### IMP Links
