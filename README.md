@@ -213,6 +213,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Card Template for Album App
 ![Screenshot](./Screenshots/Screenshot29.png?raw=true "Screenshot")
 
+#### devhints : CheatBox for Developers
+![Screenshot](./Screenshots/Screenshot30.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
@@ -322,3 +325,6 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 [Use CSS Flexbox to Center Anything Vertically & Horizontally - Images, Text or DIVs Without Floats (Tutorial)](https://love2dev.com/blog/absolute-centering-css/)
 
 [flexbox](https://internetingishard.com/html-and-css/flexbox/)
+
+[CSS flexbox cheatsheet](https://devhints.io/css-flexbox)
+
