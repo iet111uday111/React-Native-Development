@@ -177,6 +177,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Flow React Native Application using State
 ![Screenshot](./Screenshots/Screenshot17.png?raw=true "Screenshot")
 
+#### Rules  of State - 1
+![Screenshot](./Screenshots/Screenshot18.png?raw=true "Screenshot")
+
+#### Rules  of State - 2
+![Screenshot](./Screenshots/Screenshot19.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
