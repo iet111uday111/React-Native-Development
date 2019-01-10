@@ -216,7 +216,17 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### devhints : CheatBox for Developers
 ![Screenshot](./Screenshots/Screenshot30.png?raw=true "Screenshot")
 
+#### TextContainer Css Template React Native
+![Screenshot](./Screenshots/Screenshot31.png?raw=true "Screenshot")
 
+#### Card Section Css Template React Native
+![Screenshot](./Screenshots/Screenshot32.png?raw=true "Screenshot")
+
+#### flex Direction & justify-content -1
+![Screenshot](./Screenshots/Screenshot33.png?raw=true "Screenshot")
+
+#### flex Direction & justify-content -2
+![Screenshot](./Screenshots/Screenshot34.png?raw=true "Screenshot")
 
 ### IMP Links
 
