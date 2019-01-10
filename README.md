@@ -168,6 +168,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Album App - List of Components
 ![Screenshot](./Screenshots/Screenshot14.png?raw=true "Screenshot")
 
+#### Functional vs Class Based Component
+![Screenshot](./Screenshots/Screenshot15.png?raw=true "Screenshot")
+
 
 
 ### IMP Links
