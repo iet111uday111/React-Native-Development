@@ -3,4 +3,17 @@
 2.Running Emulator from Terminal
     emulator -avd Nexus_5X_API_27
 3.Open Dev tool for Emulator : Ctrl + M
+4. Remote Debugging
+
+Step 01: open this in your browser default Debugger will appear
+
+http://localhost:8081/debugger-ui/
+
+Step 02: open your emulator Ctrl + M and select the js debug and this will automatically connect the RN debugging
+
+you will see this
+
+Status: Debugger session #0 active
+
+
     
