@@ -216,3 +216,21 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [The Good and the Bad of ReactJS and React Native](https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native/)
 
+[Integrating React-native apps with back-end code using fetch API](https://codeburst.io/integrating-react-native-apps-with-back-end-code-using-fetch-api-8aeb83dfb428)
+
+[React Native Fetch Example Tutorial From Scratch](https://appdividend.com/2018/03/25/react-native-fetch-example-tutorial/)
+
+[Interacting with APIs Using React Native Fetch](https://medium.com/@yoniweisbrod/interacting-with-apis-using-react-native-fetch-9733f28566bb)
+
+[React Native - Async HTTP POST Request](https://www.thesunflowerlab.com/blog/react-native-async-http-post-request/)
+
+[Tutorial: How to make HTTP requests in React, Part 1](https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-1-f7afa3cd0cc8)
+
+[Tutorial: How to make HTTP Requests in React, Part 2](https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-2-4cfdba3ec65)
+
+[Tutorial: How to make HTTP Requests in React, Part 3](https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be)
+
+[Which method is the best for API calling in React Native?](https://www.quora.com/Which-method-is-the-best-for-API-calling-in-React-Native)
+
+[React Native - Fetch POST request is sending as GET request](https://stackoverflow.com/questions/35140358/react-native-fetch-post-request-is-sending-as-get-request)
+
