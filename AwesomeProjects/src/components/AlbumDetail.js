@@ -8,18 +8,20 @@ const AlbumDetail = ({ album }) => {
     const { title, artist, thumbnail_image } = album;
     const {
         thumbnailStyle,
-        headerContentStyle
+        headerContentStyle,
+        thumbnailContainerStyle,
+        headerFontStyle
       } = styles;
     return (
         <Card>
             <CardSection>
-                <View>
+                <View style={thumbnailContainerStyle}>
                     <Image
                         style={thumbnailStyle}
                         source={{ uri: thumbnail_image }} />
                 </View>
                 <View style={headerContentStyle}>
-                    <Text>{title}</Text>
+                    <Text style={headerFontStyle}>{title}</Text>
                     <Text>{artist}</Text>
                 </View>
             </CardSection>
@@ -32,9 +34,19 @@ const styles = {
         flexDirection: 'column',
         justifyConent: 'space-around'
     },
+    headerFontStyle:{
+      fontSize:28
+    },
     thumbnailStyle: {
         width: 50,
         height: 50,
+    },
+    thumbnailContainerStyle:{
+        justifyConent:'Center',
+        alignItems:'Center',
+        marginLeft:10,
+        marginRight:10
+
     }
 }
 
