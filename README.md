@@ -234,3 +234,5 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [React Native - Fetch POST request is sending as GET request](https://stackoverflow.com/questions/35140358/react-native-fetch-post-request-is-sending-as-get-request)
 
+[Understanding React Native Component Lifecycle Api](https://blog.usejournal.com/understanding-react-native-component-lifecycle-api-d78e06870c6d)
+
