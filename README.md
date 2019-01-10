@@ -183,6 +183,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Rules  of State - 2
 ![Screenshot](./Screenshots/Screenshot19.png?raw=true "Screenshot")
 
+#### Album Details Components
+![Screenshot](./Screenshots/Screenshot20.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
