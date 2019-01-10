@@ -15,5 +15,9 @@ you will see this
 
 Status: Debugger session #0 active
 
+5. Logs of app
+react-native log-android
+
+
 
     
