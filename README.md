@@ -238,3 +238,25 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [Understanding React Native Component Lifecycle Api](https://blog.usejournal.com/understanding-react-native-component-lifecycle-api-d78e06870c6d)
 
+[React State vs Props explained](https://codeburst.io/react-state-vs-props-explained-51beebd73b21)
+
+[ReactJS: Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+
+[What is the difference between state and props in React?](https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react)
+
+[What is the difference between state and props in React?](https://stackoverflow.com/questions/27991366/what-is-the-difference-between-state-and-props-in-react)
+
+[Props vs. State in React JS](https://blog.cloudboost.io/props-vs-state-in-react-js-9c186dcf39b8)
+
+[PROPS VS STATE IN REACT](https://flaviocopes.com/react-state-vs-props/)
+
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+[Understanding State and Props in ReactJS](https://www.agiliq.com/blog/2018/05/understanding-react-state-and-props/)
+
+[State vs Props in React](http://www.hackingwithreact.com/read/1/10/state-vs-props-in-react)
+
+[What is the difference between state vs. props in React?](https://appendto.com/2016/05/what-is-difference-between-props-and-state/)
+
+[props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+
