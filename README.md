@@ -195,6 +195,24 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Card 
 ![Screenshot](./Screenshots/Screenshot23.png?raw=true "Screenshot")
 
+#### Justify Content: Space-between
+![Screenshot](./Screenshots/Screenshot24.png?raw=true "Screenshot")
+
+#### Justify Content: Space-around
+![Screenshot](./Screenshots/Screenshot25.png?raw=true "Screenshot")
+
+#### Justify Content: flex-end
+![Screenshot](./Screenshots/Screenshot26.png?raw=true "Screenshot")
+
+#### Justify Content: Center
+![Screenshot](./Screenshots/Screenshot27.png?raw=true "Screenshot")
+
+#### Justify Content: flex-start
+![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
+
+#### Card Template for Album App
+![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
