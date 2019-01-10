@@ -278,3 +278,26 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+[Flexbox in CSS](https://cssreference.io/flexbox/)
+
+[Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+[FLEXBOX FROGGY](https://flexboxfroggy.com/)
+
+[Use Cases For Flexbox](https://www.smashingmagazine.com/2018/10/flexbox-use-cases/)
+
+[Flex](https://getbootstrap.com/docs/4.1/utilities/flex/)
+
+[Flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+
+[The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+
+[GRID VS FLEXBOX: WHICH SHOULD YOU CHOOSE?](https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/)
+
+[Use CSS Flexbox to Center Anything Vertically & Horizontally - Images, Text or DIVs Without Floats (Tutorial)](https://love2dev.com/blog/absolute-centering-css/)
+
+[flexbox](https://internetingishard.com/html-and-css/flexbox/)
