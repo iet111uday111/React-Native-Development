@@ -4,7 +4,7 @@ import axios from 'axios';
 
 class AlbumList extends Component {
     state = {
-        album: []
+        albums: []
     };
 
     componentWillMount() {
