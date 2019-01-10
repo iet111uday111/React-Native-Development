@@ -162,6 +162,13 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Use Props 
 ![Screenshot](./Screenshots/Screenshot12.png?raw=true "Screenshot")
 
+#### Album Module  
+![Screenshot](./Screenshots/Screenshot13.png?raw=true "Screenshot")
+
+#### Album App - List of Components
+![Screenshot](./Screenshots/Screenshot14.png?raw=true "Screenshot")
+
+
 
 ### IMP Links
 
