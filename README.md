@@ -186,6 +186,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Album Details Components
 ![Screenshot](./Screenshots/Screenshot20.png?raw=true "Screenshot")
 
+#### Album Details Components Elements - Approach 1
+![Screenshot](./Screenshots/Screenshot21.png?raw=true "Screenshot")
+
+#### Album Details Components Elements - Approach 2
+![Screenshot](./Screenshots/Screenshot22.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
