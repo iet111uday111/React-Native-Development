@@ -249,6 +249,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Album App- Screenshot-7 - Goes to Amazon store to buy clicked Album
 ![Screenshot](./Screenshots/Screenshot41.png?raw=true "Screenshot")
 
+#### Auth App- Basic Skelton-1
+![Screenshot](./Screenshots/Screenshot42.png?raw=true "Screenshot")
+
+#### Auth App- Basic Skelton-2
+![Screenshot](./Screenshots/Screenshot43.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
