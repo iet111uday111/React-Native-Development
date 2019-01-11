@@ -390,6 +390,15 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [InteractionManager](https://facebook.github.io/react-native/docs/interactionmanager)
 
+[Button](https://kmagiera.github.io/react-native-gesture-handler/docs/component-buttons.html)
+
+[Header buttons](https://reactnavigation.org/docs/en/header-buttons.html)
+
+[React-native, render a button click dynamically](https://stackoverflow.com/questions/37527446/react-native-render-a-button-click-dynamically)
+
+[Essential cross-platform UI components for React Native - NativeBase](https://nativebase.io/docs/v0.5.7/guide/what-is-nativebase)
+
+[React-Native Press and Hold Button Actions](https://codedaily.io/tutorials/24/React-Native-Press-and-Hold-Button-Actions)
 
 
 
