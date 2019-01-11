@@ -4,6 +4,7 @@ import firebase from 'firebase';
 
 import { Header, Button, Spinner } from './components/common';
 import { Firebase } from './config';
+import LoginForm from './components/LoginForm';
 
 export default class App extends Component {
   state = {
