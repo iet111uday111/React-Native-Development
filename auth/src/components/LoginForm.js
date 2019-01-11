@@ -18,7 +18,7 @@ export default class LoginForm extends Component {
         this.setState({
             error: ''
         });
-        
+
         firebase.auth().signInWithEmailAndPassword(email, password)
             .then(() => {
 
