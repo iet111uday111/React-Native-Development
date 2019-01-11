@@ -261,6 +261,10 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Use of firebase
 ![Screenshot](./Screenshots/Screenshot45.png?raw=true "Screenshot")
 
+#### TextInput with State
+![Screenshot](./Screenshots/Screenshot46.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
