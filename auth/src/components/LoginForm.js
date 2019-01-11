@@ -32,9 +32,8 @@ export default class LoginForm extends Component {
                 <CardSection>
                     <Button>
                         LogIn
-                </Button>
+                    </Button>
                 </CardSection>
-
             </Card>
         )
     }
