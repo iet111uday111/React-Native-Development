@@ -14,6 +14,10 @@ export default class LoginForm extends Component {
         const { email, password } = this.state;
         console.log(email);
         console.log(password);
+
+        this.setState({
+            error: ''
+        });
         
         firebase.auth().signInWithEmailAndPassword(email, password)
             .then(() => {
