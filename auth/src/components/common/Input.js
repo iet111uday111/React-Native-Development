@@ -18,12 +18,12 @@ export const Input = ({ label, value, onChangeText }) => {
 
 
 const styles = ({
-    inputStyles: {
+    inputStyle: {
         color:'#000',
         paddingRight:5,
         paddingLeft:5,
         fontSize:20,
-        LineHeight:23, 
+        lineHeight:23, 
         flex:2
     },
     labelStyle:{
