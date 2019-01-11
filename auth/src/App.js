@@ -8,7 +8,7 @@ import LoginForm from './components/LoginForm';
 
 export default class App extends Component {
   state = {
-    loggedIn: false
+    loggedIn: null
   }
 
   componentWillMount() {
