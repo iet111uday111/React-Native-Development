@@ -4,7 +4,7 @@ import { Button, Card, CardSection, Input } from './common';
 
 export default class LoginForm extends Component {
     state = {
-        text: ''
+        email: ''
     };
 
     render() {
