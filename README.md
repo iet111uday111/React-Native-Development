@@ -228,6 +228,27 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### flex Direction & justify-content -2
 ![Screenshot](./Screenshots/Screenshot34.png?raw=true "Screenshot")
 
+#### Album App- Screenshot-1
+![Screenshot](./Screenshots/Screenshot35.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-2
+![Screenshot](./Screenshots/Screenshot36.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-3
+![Screenshot](./Screenshots/Screenshot37.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-4
+![Screenshot](./Screenshots/Screenshot38.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-5
+![Screenshot](./Screenshots/Screenshot39.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-6 - After Click on Buy Now of Red Album
+![Screenshot](./Screenshots/Screenshot40.png?raw=true "Screenshot")
+
+#### Album App- Screenshot-7 - Goes to Amazon store to buy clicked Album
+![Screenshot](./Screenshots/Screenshot41.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
