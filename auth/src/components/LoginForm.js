@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { TextInput } from 'react-native';
-import { Button, Card, CardSection,Input } from './common';
+import { Button, Card, CardSection, Input } from './common';
 
 export default class LoginForm extends Component {
-    state= {
+    state = {
         text: ''
     };
 
@@ -11,10 +11,11 @@ export default class LoginForm extends Component {
         return (
             <Card>
                 <CardSection>
-                    <Input 
+                    <Input
+                        placeholder="user@gmail.com"
                         label="Email"
                         value={this.state.text}
-                        onChangeText={text => this.setState({text})}    
+                        onChangeText={email => this.setState({ email })}
                     />
                 </CardSection>
                 <CardSection />
