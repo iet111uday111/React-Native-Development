@@ -285,6 +285,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Redux Store Mechanism with Code
 ![Screenshot](./Screenshots/Screenshot53.png?raw=true "Screenshot")
 
+#### Redux Store Mechanism with Code 2
+![Screenshot](./Screenshots/Screenshot54.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
