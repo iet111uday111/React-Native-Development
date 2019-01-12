@@ -267,6 +267,17 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### SignIn an User
 ![Screenshot](./Screenshots/Screenshot47.png?raw=true "Screenshot")
 
+#### Tech Stack App Mock
+![Screenshot](./Screenshots/Screenshot48.png?raw=true "Screenshot")
+
+#### Understand Redux mock 1
+![Screenshot](./Screenshots/Screenshot49.png?raw=true "Screenshot")
+
+#### Understand Redux mock 2
+![Screenshot](./Screenshots/Screenshot50.png?raw=true "Screenshot")
+
+#### Understand Redux mock 3
+![Screenshot](./Screenshots/Screenshot51.png?raw=true "Screenshot")
 
 ### IMP Links
 
