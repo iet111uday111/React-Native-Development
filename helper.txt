@@ -18,6 +18,11 @@ Status: Debugger session #0 active
 5. Logs of app
 react-native log-android
 
+6.JS Playground
+https://stephengrider.github.io/JSPlaygrounds/
+
+
+
 
 
     
