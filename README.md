@@ -279,6 +279,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Understand Redux mock 3
 ![Screenshot](./Screenshots/Screenshot51.png?raw=true "Screenshot")
 
+#### Provider in Redux
+![Screenshot](./Screenshots/Screenshot51.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
