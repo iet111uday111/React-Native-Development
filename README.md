@@ -288,6 +288,17 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Redux Store Mechanism with Code 2
 ![Screenshot](./Screenshots/Screenshot54.png?raw=true "Screenshot")
 
+#### State Design Techstack App
+![Screenshot](./Screenshots/Screenshot55.png?raw=true "Screenshot")
+
+#### Reducer Design Techstack App
+![Screenshot](./Screenshots/Screenshot56.png?raw=true "Screenshot")
+
+#### Library List 
+![Screenshot](./Screenshots/Screenshot57.png?raw=true "Screenshot")
+
+#### Connect Helper - Connect component to Redux store
+![Screenshot](./Screenshots/Screenshot58.png?raw=true "Screenshot")
 
 ### IMP Links
 
