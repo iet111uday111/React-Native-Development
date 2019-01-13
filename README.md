@@ -306,6 +306,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Action Creator with redux
 ![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
 
+#### Animation
+![Screenshot](./Screenshots/Screenshot61.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
