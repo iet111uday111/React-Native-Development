@@ -8,7 +8,7 @@ class LoginForm extends Component {
         this.props.emailChanged(text);
     }
 
-    onPasswordChange(text){
+    onPasswordChange(text) {
         this.props.passwordChanged(text)
     }
 
@@ -38,7 +38,7 @@ class LoginForm extends Component {
                 <CardSection>
                     <Button>
                         Login
-            </Button>
+                    </Button>
                 </CardSection>
 
             </Card>
