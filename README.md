@@ -345,6 +345,10 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Create a new state with refrences (Both states are same)
 ![Screenshot](./Screenshots/Screenshot73.png?raw=true "Screenshot")
 
+#### Updating the state of email input through redux
+![Screenshot](./Screenshots/Screenshot74.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
