@@ -330,6 +330,20 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Complete flow of interaction between React with Redux
 ![Screenshot](./Screenshots/Screenshot68.png?raw=true "Screenshot")
 
+#### Changes action name into special types
+![Screenshot](./Screenshots/Screenshot69.png?raw=true "Screenshot")
+
+#### Reducer with New State
+![Screenshot](./Screenshots/Screenshot70.png?raw=true "Screenshot")
+
+#### How updation of state changes
+![Screenshot](./Screenshots/Screenshot71.png?raw=true "Screenshot")
+
+#### changing a property of copy of state
+![Screenshot](./Screenshots/Screenshot72.png?raw=true "Screenshot")
+
+#### Create a new state with refrences (Both states are same)
+![Screenshot](./Screenshots/Screenshot73.png?raw=true "Screenshot")
 
 ### IMP Links
 
