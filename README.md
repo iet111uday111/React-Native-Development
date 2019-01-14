@@ -363,6 +363,15 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Async Action Creator
 ![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
 
+#### Default action Creator
+![Screenshot](./Screenshots/Screenshot80.png?raw=true "Screenshot")
+
+#### Action Creator rule with Thunk
+![Screenshot](./Screenshots/Screenshot81.png?raw=true "Screenshot")
+
+#### Redux Thunk
+![Screenshot](./Screenshots/Screenshot82.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
