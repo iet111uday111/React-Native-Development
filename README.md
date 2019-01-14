@@ -327,6 +327,10 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Flow of React code with Redux code 
 ![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
 
+#### Complete flow of interaction between React with Redux
+![Screenshot](./Screenshots/Screenshot68.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [Running react-native app in ubuntu 18.04](https://medium.com/@dooboolab/running-react-native-app-in-ubuntu-18-04-7d1db4ac7518)
