@@ -318,6 +318,14 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Login Form Mockup
 ![Screenshot](./Screenshots/Screenshot64.png?raw=true "Screenshot")
 
+#### Login Form Responsibilities
+![Screenshot](./Screenshots/Screenshot65.png?raw=true "Screenshot")
+
+#### Login Form Responsibilties and Redux Responsibilties
+![Screenshot](./Screenshots/Screenshot66.png?raw=true "Screenshot")
+
+#### Flow of React code with Redux code 
+![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
 
 ### IMP Links
 
