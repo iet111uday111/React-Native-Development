@@ -348,6 +348,21 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Updating the state of email input through redux
 ![Screenshot](./Screenshots/Screenshot74.png?raw=true "Screenshot")
 
+#### Current State & Proposed State
+![Screenshot](./Screenshots/Screenshot75.png?raw=true "Screenshot")
+
+#### Proposed State
+![Screenshot](./Screenshots/Screenshot76.png?raw=true "Screenshot")
+
+#### LoginUser Action - Login a User
+![Screenshot](./Screenshots/Screenshot77.png?raw=true "Screenshot")
+
+#### Sync Action Creator
+![Screenshot](./Screenshots/Screenshot78.png?raw=true "Screenshot")
+
+#### Async Action Creator
+![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
