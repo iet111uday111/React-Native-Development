@@ -423,6 +423,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Auth APP - Logout
 ![Screenshot](./Screenshots/Screenshot99.png?raw=true "Screenshot")
 
+#### TechStack - List
+![Screenshot](./Screenshots/Screenshot100.png?raw=true "Screenshot")
+
+#### Auth APP - Description Animation
+![Screenshot](./Screenshots/Screenshot101.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
