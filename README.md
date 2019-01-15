@@ -381,6 +381,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Scene API Attributes
 ![Screenshot](./Screenshots/Screenshot85.png?raw=true "Screenshot")
 
+#### Employee Fields
+![Screenshot](./Screenshots/Screenshot86.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
