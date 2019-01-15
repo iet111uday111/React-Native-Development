@@ -384,6 +384,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Employee Fields
 ![Screenshot](./Screenshots/Screenshot86.png?raw=true "Screenshot")
 
+#### Firebase DB
+![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
