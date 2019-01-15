@@ -6,6 +6,7 @@ import ReduxThunk from 'redux-thunk';// store Enhancer
 import { Firebase } from './config';
 import LoginForm from './components/LoginForm';
 import reducers from './reducers';
+import Router from './Router';
 class App extends Component {
   render() {
     const store = createStore(
@@ -14,7 +15,7 @@ class App extends Component {
 
     return (
       <Provider store={store}>
-            <LoginForm />
+            <Router />
       </Provider>
     )
   }
