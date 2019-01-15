@@ -387,6 +387,9 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Firebase DB
 ![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
 
+#### User Data Structure
+![Screenshot](./Screenshots/Screenshot88.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
