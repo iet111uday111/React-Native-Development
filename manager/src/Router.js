@@ -1,6 +1,6 @@
 import React from 'react';
 import { Scene, Router } from 'react-native-router-flux';
-import LoginForm  from './components/LoginForm';
+import LoginForm from './components/LoginForm';
 
 const RouterComponent = () => {
     return (
@@ -14,10 +14,10 @@ const RouterComponent = () => {
 
 const styles = {
     navigationBarTitleStyle: {
-      // centering for Android
-     flex: 1,
-     textAlign: 'center'
- }
+        // centering for Android
+        flex: 1,
+        textAlign: 'center'
+    }
 }
 
 
