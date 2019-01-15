@@ -527,6 +527,6 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 
 [React-Native Press and Hold Button Actions](https://codedaily.io/tutorials/24/React-Native-Press-and-Hold-Button-Actions)
 
-
+[React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9)
 
 
