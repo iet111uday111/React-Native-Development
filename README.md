@@ -417,6 +417,12 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### Manger APP - Fire Employee
 ![Screenshot](./Screenshots/Screenshot97.png?raw=true "Screenshot")
 
+#### Auth APP - Login
+![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
+
+#### Auth APP - Logout
+![Screenshot](./Screenshots/Screenshot99.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
