@@ -390,6 +390,33 @@ If you need to build IPAs and APKs for publishing to the App Store and/or Play S
 #### User Data Structure
 ![Screenshot](./Screenshots/Screenshot88.png?raw=true "Screenshot")
 
+#### Form to create Employee
+![Screenshot](./Screenshots/Screenshot89.png?raw=true "Screenshot")
+
+#### Form to edit Employee
+![Screenshot](./Screenshots/Screenshot90.png?raw=true "Screenshot")
+
+#### App Chalenges
+![Screenshot](./Screenshots/Screenshot91.png?raw=true "Screenshot")
+
+#### Manger APP - login
+![Screenshot](./Screenshots/Screenshot92.png?raw=true "Screenshot")
+
+#### Manger APP - Emp List
+![Screenshot](./Screenshots/Screenshot93.png?raw=true "Screenshot")
+
+#### Manger APP - Create EMP
+![Screenshot](./Screenshots/Screenshot94.png?raw=true "Screenshot")
+
+#### Manger APP - Edit Emp
+![Screenshot](./Screenshots/Screenshot95.png?raw=true "Screenshot")
+
+#### Manger APP - Send Text Message
+![Screenshot](./Screenshots/Screenshot96.png?raw=true "Screenshot")
+
+#### Manger APP - Fire Employee
+![Screenshot](./Screenshots/Screenshot97.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
