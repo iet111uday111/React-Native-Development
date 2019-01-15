@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
 import ReduxThunk from 'redux-thunk';// store Enhancer
+import { BackHandler } from 'react-native'
+import { Actions } from 'react-native-router-flux'
+
 
 import { Firebase } from './config';
 import LoginForm from './components/LoginForm';
